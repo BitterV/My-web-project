@@ -1,0 +1,36 @@
+.cont{
+background-color: rgba(255, 246, 236, 0.454);
+border-bottom: 4px solid rgb(43, 44, 50);
+border-top:4px solid rgb(43, 44, 50) ;
+opacity: 100%;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover; 
+height: 70px;
+display: flex;
+justify-content: center;
+}
+
+.navbar{
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+ 
+}
+
+.logo{
+    background-image: url(https://www.svgrepo.com/show/530377/chat-chat.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+}
+
+.headertext{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: larger;
+}

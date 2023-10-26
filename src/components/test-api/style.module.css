@@ -1,0 +1,16 @@
+.cont{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.teamcaption{
+     margin-bottom: 30px;
+     font-size: 40px;
+}
+
+.teamlist{
+    margin-bottom:10px;
+}

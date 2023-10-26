@@ -1,0 +1,21 @@
+.submit{
+    margin-left: 5px;
+    border: 3px solid  rgb(88, 85, 105);
+    font-family: Lancelot;
+}
+.submit:hover{
+    background-color: bisque;
+}
+
+.gamediv{
+   padding: 30px;
+   border: 3px solid black;
+   position: absolute;
+   top: 250px;
+   background-image: url(./Снимок\ экрана\ 2023-10-25\ 210834.png);
+}
+
+.gametext{
+    font-family: Lancelot;
+    font-size:19px;
+}

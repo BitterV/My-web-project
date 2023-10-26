@@ -1,0 +1,25 @@
+.cont_items{
+   border:5px solid rgba(0, 0, 0, 0.604) ;
+   width: 340px;
+   margin-top: 50px;
+   background-color: rgba(251, 215, 179, 0.171);
+}
+
+.item{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 340px;
+    background-color: rgba(251, 215, 179, 0.44);
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.edit{
+    width: 340px;
+    background-color: rgba(127, 127, 181, 0.44);
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,44 @@
+.cont{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./Снимок\ экрана\ 2023-10-25\ 210834.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+}
+.text{
+    margin-right: 10px;
+    position: absolute; 
+    bottom: 0; 
+    right: 0;
+    color: #000;
+    font-family: Karantina;
+    font-size: 25px;
+    letter-spacing: -1px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.underline{
+ width: 294.002px;
+height: 5px;
+background: #000;
+position: absolute; 
+bottom: 0; 
+right: 0;
+
+}
+
+.underline2{
+
+position: absolute; 
+
+bottom: -20px; 
+right: 155px;
+color: rgb(0, 0, 0);
+transform: rotate(-0.441deg);
+flex-shrink: 0;
+}
